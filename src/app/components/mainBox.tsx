@@ -9,7 +9,7 @@ export default function LinktreePage() {
         width={50}
         height={50}
         alt="AnishLogo"
-        className="absolute top-2 left-2 md:top-8 md:left-8 cursor-none pointer-events-auto"
+        className="absolute top-2 left-2 size-6 md:size-12 md:top-8 md:left-8 cursor-none pointer-events-auto"
       />
       <div className="w-full flex flex-col lg:flex-row max-w-6xl neubox rounded-3xl shadow-xl overflow-hidden">
         <div className="lg:w-1/2 p-10 sm:p-24 flex flex-col items-center lg:items-start justify-center">
