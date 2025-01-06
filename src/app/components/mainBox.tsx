@@ -16,7 +16,7 @@ export default function LinktreePage() {
           <Image
             width={200}
             height={200}
-            src="https://media.licdn.com/dms/image/v2/D5603AQFA732S8EyL5Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1706852008341?e=1734566400&v=beta&t=8s1TGMOG7PVcWSdY7iz3dE4ay26I1CgzpRCXAbC-wCQ"
+            src="https://blastro.netlify.app/assets/anish.webp"
             alt="Profile"
             className="size-40 neuboxsm object-cover border-4 border-white mb-6"
           />
