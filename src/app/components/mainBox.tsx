@@ -43,7 +43,7 @@ export default function LinktreePage() {
           </h2>
           <div className="flex flex-col justify-center gap-4 border max-w-md">
             <LinkButton href="https://www.anish7.me/" text="My Portfolio" />
-            <LinkButton href="https://blastro.netlify.app/" text="My Blogs" />
+            <LinkButton href="https://blog.anish7.me/" text="My Blogs" />
             <LinkButton
               href="https://calendly.com/anish7"
               text="Schedule a meet"
